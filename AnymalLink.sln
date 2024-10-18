@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnymalLink", "AnymalLink.csproj", "{228544DE-5538-46F1-9F2C-8AFB76985F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228544DE-5538-46F1-9F2C-8AFB76985F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228544DE-5538-46F1-9F2C-8AFB76985F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228544DE-5538-46F1-9F2C-8AFB76985F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228544DE-5538-46F1-9F2C-8AFB76985F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6E3A4F-A3BE-453E-B05A-AACE12A0046E}
+	EndGlobalSection
+EndGlobal
